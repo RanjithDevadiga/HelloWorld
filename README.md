@@ -1,4 +1,4 @@
-#Truecaller Assessment
+
 
 #usage
 1)Read 10th character of the Web view text.
